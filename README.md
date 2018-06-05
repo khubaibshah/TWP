@@ -11,7 +11,7 @@ Any information needed to set this project up has been mentioned in the 'User Do
  
 https://octobercms.com/
 
-*Step 1 – Install October cms
+* Step 1 – Install October cms
 *Step 2- install xampp
 *Step 3 – When the install master folder is downloaded, move the file to htdocs
 *Step 4 – Run local host with the install master file directory with install.php at the end of the url.
