@@ -8,9 +8,15 @@ Any information needed to set this project up has been mentioned in the 'User Do
 
 ## How to set up October cms locally
 
- 
 https://octobercms.com/
 
+Watch these two links to set up october locally with Xampp
+
+https://drive.google.com/open?id=1VD92YDW6EeadL4hHE83N5dWeU4g6265N
+
+https://drive.google.com/open?id=1YOVRSN03AgQ8SIhvG7exKuXHH3yIKsWJ
+
+## Step up
 * Step 1 – Install October cms
 * Step 2- install xampp
 * Step 3 – When the install master folder is downloaded, move the file to htdocs
