@@ -6,6 +6,8 @@ The aim of this project was to, create the front end and back end system for cus
 
 Any information needed to set this project up has been mentioned in the 'User Documentation' file as this was used for the client to understand the website also.
 
+This project was created using Laravel a Php framework on October cms.
+
 ## Files downloads
 
 As this was quite a large project, the files were uploaded to a public One drive folder. They can be downloaded using the following link: https://onedrive.live.com/?id=528C8CFA929BC120%21119&cid=528C8CFA929BC120.
